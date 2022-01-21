@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "STM32-Zephir",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:\\Users\\hp\\zephyrproject\\zephyr",
+                "C:\\Users\\hp\\zephyrproject\\zephyr\\include",
+                "C:/Users/hp/zephyrproject/zephyr/lib/libc/minimal/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "gcc-arm",
+            "compilerPath": "",
+            "compilerArgs": [],
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
