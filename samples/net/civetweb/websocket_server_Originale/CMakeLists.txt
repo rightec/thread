@@ -4,7 +4,6 @@
 
 cmake_minimum_required(VERSION 3.20.0)
 
-set(BOARD stm32h747i_disco_m7)
 set(common_dir ${CMAKE_CURRENT_SOURCE_DIR}/../common)
 set(common_src_dir ${common_dir}/src)
 set(common_include_dir ${common_dir}/include)
